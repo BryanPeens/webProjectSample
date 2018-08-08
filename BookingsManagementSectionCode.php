@@ -1,0 +1,9 @@
+<?php
+
+$allUserBookings = DataHandler::getAllBookings();
+
+
+
+
+
+
